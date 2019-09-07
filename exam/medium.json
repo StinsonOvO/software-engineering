@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "type": "MCQ",
+      "question": "Which element is the 13th element in the periodic table? a. Aluminium, b. Silicon, c. Sodium, d. Calcium",
+      "answer": "a"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which of the following storage class is no longer supported in C++ 17? a. static, b. register, c. extern, d. mutable",
+      "answer": "b"
+    },
+    {
+      "type": "Arithmetic",
+      "question": "How many critical points does the function f(x) = x^3 − x^2 − 3x + 2 have?",
+      "answer": "2"
+    },
+    {
+      "type": "Short_Answer",
+      "question": "Conjugaison: futur simple de 'vaincre': (ils) __________",
+      "answer": "vaincront"
+    }
+  ]
+}

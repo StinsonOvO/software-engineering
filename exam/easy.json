@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "type": "MCQ",
+      "question": "Which city will host the 2020 Olympic Games? a. Paris, b. Tokyo, c. Sydney, d. Beijing",
+      "answer": "b"
+    },
+    {
+      "type": "Arithmetic",
+      "question": "2 + 3 = ",
+      "answer": "5"
+    },
+    {
+      "type": "Short_Answer",
+      "question": "What is the captial city of Spain?",
+      "answer": "Madrid"
+    }
+  ]
+}

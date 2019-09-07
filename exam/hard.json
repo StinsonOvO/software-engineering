@@ -1,0 +1,29 @@
+{
+  "questions": [
+    {
+      "type": "Short_Answer",
+      "question": "Actions speak louder than ______.",
+      "answer": "words"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which element is the 35th element in the periodic table? a. Helium, b. Silicon, c. Sodium, d. Bromine",
+      "answer": "d"
+    },
+    {
+      "type": "MCQ",
+      "question": "Which of the following represents an entity in the real world with its identity and behaviour. a. method, b. object, c. class, d. operator",
+      "answer": "b"
+    },
+    {
+      "type": "Arithmetic",
+      "question": "1 + 2 + ... + 99 + 100 + 99 + ... + 1 = ",
+      "answer": "10000"
+    },
+    {
+      "type": "Arithmetic",
+      "question": "11111 * 11111 = ",
+      "answer": "123454321"
+    }
+  ]
+}
