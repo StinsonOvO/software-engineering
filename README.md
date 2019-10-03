@@ -10,6 +10,7 @@ Run the maven project with any Java IDE, such as NetBeans, Eclipse, and IntelliJ
 
 * Simple Statistics Calculator
 * Examination System
+* Scheduler (GUI)
 * (to be updated)
 
 ## License
