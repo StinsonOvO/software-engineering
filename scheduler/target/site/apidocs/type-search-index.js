@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"com.mycompany.swing","l":"Board"},{"p":"com.mycompany.swing","l":"NewMain"},{"p":"com.mycompany.swing","l":"Planner"},{"p":"com.mycompany.swing","l":"Section"},{"p":"com.mycompany.swing","l":"Task"},{"p":"com.mycompany.swing","l":"XMLizable"}]
